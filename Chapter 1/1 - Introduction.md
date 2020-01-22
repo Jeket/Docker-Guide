@@ -26,5 +26,5 @@ EXAMPLE: Suppose on the Linux terminal we run a tree command which is not yet in
 
 Before we dive into Docker and how to use it. Let’s dive in to learn more about why Docker was introduced and what problems did it actually solve to gain tremendous popularity.
 
-A Sneak Peek into Adaption of Docker: 
+## A Sneak Peek into Adaption of Docker: 
 The technology hasn’t always been the same as we see it today. A decade ago there was one way of production and development. It was very much standardized for all the applications. Applications were majorly built using Java or .NET frameworks. The applications were deployed to a single server. This was largely using Monolithic architecture. The monolithic architecture is something that builds from a single piece of material. Docker was introduced to shift towards Microservices.
